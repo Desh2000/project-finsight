@@ -1,0 +1,4 @@
+# FinVest | API Gateway | requirements.txt
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+httpx>=0.28.0
