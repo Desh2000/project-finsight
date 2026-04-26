@@ -148,3 +148,7 @@ vite.config.ts.timestamp-*
 *.sqlite-journal
 *.sqlite-wal
 *.sqlite-shm
+
+# Python compiled files
+*.pyc
+__pycache__/
