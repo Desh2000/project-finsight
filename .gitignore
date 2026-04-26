@@ -150,5 +150,6 @@ vite.config.ts.timestamp-*
 *.sqlite-shm
 
 # Python compiled files
+venv/
 *.pyc
 __pycache__/
