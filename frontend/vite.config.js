@@ -10,4 +10,5 @@ export default defineConfig({
     port: 5173,
     open: false,
   },
+  base: process.env.VITE_BASE_PATH || "/project-finsight",
 })
